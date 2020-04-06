@@ -1,3 +1,4 @@
 pandas
 ipyaggrid
 plotly==4.6.0
+kaggle
